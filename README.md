@@ -38,3 +38,11 @@ Artificial Intelligence | Natural Language Processing | Generative AI | RAG
 
 ## Author
 Dedeepya Siri Aalugubelli
+
+## Application Screenshot
+
+### PDF RAG Assistant
+
+The following screenshot shows the chatbot interface generating answers from uploaded PDF documents.
+
+![PDF RAG Assistant](pdf-rag-assistant.png)
