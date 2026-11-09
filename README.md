@@ -46,3 +46,8 @@ Dedeepya Siri Aalugubelli
 The following screenshot shows the chatbot interface generating answers from uploaded PDF documents.
 
 ![PDF RAG Assistant](pdf-rag-assistant.png)
+
+
+## Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aalugudedeepyasiri2005-cmd/PDF-RAG/blob/main/PDF_RAG_Project_With_Frontend.ipynb)
